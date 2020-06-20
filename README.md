@@ -1,5 +1,5 @@
 # ANÁLISIS DESCRIPTIVO AREQUIPA
-Este proyecto está basado en una análisis descriptivo. Los datos corresponden al total de casos reportados que dieron positivo al COVID – 19 en el departamento de Arequipa. Hubo limpieza de datos, se omitieron los datos en investigación.
+Este proyecto está basado en una análisis descriptivo en Excel. Los datos corresponden al total de casos reportados que dieron positivo al COVID – 19 en el departamento de Arequipa. Hubo limpieza de datos, se omitieron los datos en investigación.
 
 Fuente: Instituto Nacional de Salud y Centro Nacional de Epidemiologia, prevención y Control de Enfermedades – MINSA.
 
