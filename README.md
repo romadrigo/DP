@@ -5,10 +5,10 @@ Fuente: Instituto Nacional de Salud y Centro Nacional de Epidemiologia, prevenci
 
 Gráficos Elaborados
 
-* Distribución de infectados por periodo y método de prueba
-* Distribución de la cantidad de infectados por provincia
-* Distribución de infectados de la pronvicia de Arequipo por Distrito
-* Distribución de infectados según el sexo por Distrito
-* Porcentaje de Infectados según la Edad
+* Distribución de infectados por periodo y método de prueba.
+* Distribución de la cantidad de infectados por provincia.
+* Distribución de infectados de la provincia de Arequipo por Distrito.
+* Distribución de infectados según el sexo por Distrito.
+* Porcentaje de Infectados según la Edad.
 
 
