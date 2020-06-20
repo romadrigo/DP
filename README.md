@@ -3,7 +3,7 @@ Este proyecto está basado en una análisis descriptivo. Los datos corresponden 
 
 Fuente: Instituto Nacional de Salud y Centro Nacional de Epidemiologia, prevención y Control de Enfermedades – MINSA.
 
-- Gráficos Elaborados
+Gráficos Elaborados
 
 * Distribución de infectados por periodo y método de prueba
 * Distribución de la cantidad de infectados por provincia
